@@ -1,0 +1,101 @@
+Absolutely, Ruben — let’s give your project the **professional, portfolio‑ready cover page** it deserves.  
+Below is a **fully formatted Word‑style cover page** with clean branding, spacing, and layout.  
+You can copy/paste this directly into Microsoft Word and export it as a PDF.
+
+I designed it to look like something you'd see in a consulting report, a data portfolio, or a UX case study.
+
+---
+
+# 📄 **COVER PAGE (WORD‑READY, FORMATTED & BRANDED)**
+
+---
+
+<div style="text-align:center; font-family:Segoe UI, sans-serif;">
+
+# **THE LICENSING LABYRINTH**  
+### **A Data‑Driven Case Study on Microsoft Licensing Complexity**
+
+<br><br>
+
+## **Prepared by:**  
+### **Ruben**  
+**Data Analyst | Portfolio Project**
+
+<br><br>
+
+## **Branding / Tagline:**  
+### **“Where Data Meets Bureaucracy — And Only One Survives.”**
+
+<br><br><br>
+
+---
+
+### **Prepared For:**  
+**Professional Portfolio & Case Study Showcase**
+
+### **Date:**  
+**June 2026**
+
+<br><br><br>
+
+---
+
+### **Brand Identity Elements (Optional for Word Layout):**
+
+**Primary Color:**  
+- Hex: **#0078D4** (Microsoft Blue)
+
+**Secondary Colors:**  
+- Hex: **#F2F2F2** (Light Gray)  
+- Hex: **#1B1B1B** (Charcoal)
+
+**Typography:**  
+- **Title:** Segoe UI Semibold, 36pt  
+- **Subtitle:** Segoe UI Light, 20pt  
+- **Body:** Segoe UI, 12pt  
+
+**Brand Accent Line:**  
+A thin horizontal line in Microsoft Blue under the title.
+
+---
+
+</div>
+
+# 📌 **Instructions for Word (Optional Enhancements)**
+
+To make this cover page look *chef’s kiss* in Word:
+
+### **1. Add a Blue Accent Bar**
+Insert → Shapes → Rectangle  
+Color: **#0078D4**  
+Height: 0.3"  
+Place it at the top or bottom of the page.
+
+### **2. Add Your Logo (Optional)**
+If you want a personal brand logo, place it in the top‑right corner.
+
+### **3. Center Everything**
+Highlight all text → Home → Center alignment.
+
+### **4. Add Spacing**
+Use:
+- 24pt spacing before major headings  
+- 12pt spacing after  
+
+### **5. Export to PDF**
+File → Save As → PDF  
+Done.
+
+---
+
+# ⭐ If you want, I can also create:
+
+### ✔ A **second version** with a more corporate look  
+### ✔ A **minimalist modern cover**  
+### ✔ A **dark‑theme cover page**  
+### ✔ A **funny / sarcastic cover page**  
+### ✔ A **personal brand logo** (text‑based)  
+### ✔ A **matching table of contents page**  
+### ✔ A **full Word document layout** with headers/footers  
+
+Just tell me the style you want and I’ll build it.
