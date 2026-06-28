@@ -24,7 +24,7 @@ So I did what any reasonable data analyst would do — I tracked every failed at
 
 ![The Licensing Labyrinth Dashboard](The_Licensing_Labyrinth_Dashboard.png)
 
-🔗 **[View Live Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNTFmOGRmZDUtNTg0NC00MGNmLTg5N2EtN2ExYmQzNTAxMjQwIiwidCI6IjIyNTYxMTY5LWFjOTctNGIyZC1hMGExLTU0OTJlNjM5OTA5ZSJ9&embedImagePlaceholder=true&pageName=140a775948255cecc50d)**
+🔗 **[View Live Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNTFmOGRmZDUtNTg0NC00MGNmLTg5N2EtN2ExYmQzNTAxMjQwIiwidCI6IjIyNTYxMTY5LWFjOTctNGIyZC1hMGExLTU0OTJlNjM5OTA5ZSJ9)**
 
 ---
 
@@ -177,7 +177,7 @@ Microsoft, Power BI, Copilot, and related names are trademarks of Microsoft Corp
 
 **Ruben Santana**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ruben-santana-170332416)
-- 📊 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTFmOGRmZDUtNTg0NC00MGNmLTg5N2EtN2ExYmQzNTAxMjQwIiwidCI6IjIyNTYxMTY5LWFjOTctNGIyZC1hMGExLTU0OTJlNjM5OTA5ZSJ9&embedImagePlaceholder=true&pageName=140a775948255cecc50d)
+- 📊 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTFmOGRmZDUtNTg0NC00MGNmLTg5N2EtN2ExYmQzNTAxMjQwIiwidCI6IjIyNTYxMTY5LWFjOTctNGIyZC1hMGExLTU0OTJlNjM5OTA5ZSJ9)
 
 ---
 
