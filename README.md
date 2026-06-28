@@ -11,7 +11,7 @@ So I did what any reasonable data analyst would do — I tracked every failed at
 ---
 📊 Dashboard
 ![The Licensing Labyrinth Dashboard](The_Licensing_Labyrinth_Dashboard.png)
-🔗 View Live Interactive Dashboard on Power BI Service
+🔗 **[View Live Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/ee642733-03f0-4097-ab43-b9edc11869a8/140a775948255cecc50d?experience=power-bi)**
 ---
 🔍 Key Findings
 Metric	Value
@@ -119,7 +119,6 @@ Microsoft, Power BI, Copilot, and related names are trademarks of Microsoft Corp
 ---
 📬 Connect
 Ruben Santana
-🔗 LinkedIn
-📊 Power BI Dashboard
----
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ruben-santana-170332416)
+- 📊 [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/ee642733-03f0-4097-ab43-b9edc11869a8/140a775948255cecc50d?experience=power-bi)
 RLS//DATA — "Because someone has to make sense of this."
